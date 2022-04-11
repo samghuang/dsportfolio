@@ -1,4 +1,4 @@
-# samghuang
+# https://github.com/samghuang/dsportfolio
 - 👋 Hi, I’m @samghuang
 - 👀 I’m interested in data science and design
 - 🌱 I’m currently learning more aws services
